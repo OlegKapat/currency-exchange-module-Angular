@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+}
+.rowpicker{
+  width: auto;
+  height: 100px;
+  background: #ccc;
+  position: relative;
+}
+.picker{
+display: inline-block;
+margin: 0 200px 0 100px;
+}
+.btn{
+  float: right;
+  width: 150px;
+  margin:10px 30px 20px 0;
+
+}
+.alert{
+  text-align: center;
+}
